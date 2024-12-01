@@ -1,0 +1,4 @@
+../Core/Src/tft_touch.c:8:6:TFT_Touch_Select	8	static
+../Core/Src/tft_touch.c:12:6:TFT_Touch_Unselect	8	static
+../Core/Src/tft_touch.c:16:6:TFT_Touch_ScreenPressed	8	static
+../Core/Src/tft_touch.c:20:6:TFT_Touch_GetCoordinates	40	static
